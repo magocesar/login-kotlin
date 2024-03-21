@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tela_de_login">Tela de Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logged">Logged</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+</resources>
